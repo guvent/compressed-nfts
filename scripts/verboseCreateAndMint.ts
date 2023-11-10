@@ -97,6 +97,7 @@ let initBalance: number, balance: number;
   //////////////////////////////////////////////////////////////////////////////
 
   /*
+    TODO: choose max depth size pair....
     Define our tree size parameters
   */
   const maxDepthSizePair: ValidDepthSizePair = {
